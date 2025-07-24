@@ -14,7 +14,7 @@ kombi hacklemeye. başka ne boka yarasın ki gfghkjgfdtfghugftdr6yygıhıj
 yok amq. bi şaka yapalım diye git kullanmayı öğrendim. github flavoured markdown'un özel syntax ini öğrendim. daha ne istiyon amq
 
 şaka bir yana
-mopica***ö*** olmasa bunları yapamazdım
+[mopica***ö***](https://youtube.com/@blankpartition?si=D795NMjWNOeARooW) olmasa bunları yapamazdım
 <details>
   <summary></summary>
   ya tabi yapardım da ne zaman yapacağım belli olmazdı
